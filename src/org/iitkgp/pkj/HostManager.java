@@ -4,6 +4,12 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.logging.Logger;
 
+/**
+ * 
+ * @since April ‎20, ‎2021, ‏‎4:34:59 PM
+ * @author Pabitra K Jana, IIT Kharagpur
+ * 
+ */
 public class HostManager {
 
 	Logger logger = Logger.getLogger(HostManager.class.getName());
