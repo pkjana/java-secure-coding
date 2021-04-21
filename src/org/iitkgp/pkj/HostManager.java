@@ -12,7 +12,7 @@ import java.util.logging.Logger;
  */
 public class HostManager {
 
-	Logger logger = Logger.getLogger(HostManager.class.getName());
+	static Logger logger = Logger.getLogger(HostManager.class.getName());
 
 	public static void main(String[] args) {
 		String hostName = getHostName().toUpperCase();
